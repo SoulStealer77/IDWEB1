@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pentru conflict
 conteeeeeeeeeeeeeeeeenet 
+=======
+Conflict in alt branch
+>>>>>>> FilmeVechi
